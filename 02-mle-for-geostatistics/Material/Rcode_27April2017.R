@@ -79,7 +79,8 @@ grad.log.lik <- function(par) {
   R <- varcov.spatial(dists.lowertri=U,cov.model="matern",
                       cov.pars=c(1,phi),
                       nugget=nu2,kappa=kappa)$varcov
-      
+  
+  # Derivative of the paer
   R.inv <- solve(R)
   R1.phi <- matern.grad.phi(U,phi,kappa)
   m1.phi <- R.inv%*%R1.phi
@@ -105,6 +106,8 @@ grad.log.lik <- function(par) {
 library(maxLik)
 
 kappa <- 1.5
+
+# How to chek if the derivates are ok
 
 check <- compareDerivatives(
   log.lik,
