@@ -6,7 +6,7 @@ During this session [Claudio](http://chicas.lancaster-university.uk/people/front
 
 * Supplementary readings:
   * [The ASA s Statement on P-values](https://github.com/chicas-spatstat-reading-group/events/blob/master/03-P-values/Material/The%20ASA%20s%20Statement%20on%20p%20Values%20Context%20Process%20and%20Purpose.pdf)
-  * [Greenland, S., Senn, S. J., Rothman, K. J., Carlin, J. B., Poole, C., Goodman, S. N., & Altman, D. G. (2016). Statistical tests, P values, confidence intervals, and power: a guide to misinterpretations. European Journal of Epidemiology, 31(4), 337–350.](https://github.com/chicas-spatstat-reading-group/events/blob/master/03-P-values/Material/utas_a_1154108_sm5368.pdf)
-  * [Matthews, R., Wasserstein, R. and Spiegelhalter, D. (2017), The ASA's p-value statement, one year on. Significance, 14: 38–41](https://github.com/chicas-spatstat-reading-group/events/blob/master/03-P-values/Material/Matthews_et_al-2017-Significance.pdf)
-  * [Nuzzo, R. (2014). Statistical errors. Nature, 506(7487), 150.](https://github.com/chicas-spatstat-reading-group/events/blob/master/03-P-values/Material/506150a.pdf)
+  * [Statistical tests, P values, confidence intervals, and power: a guide to misinterpretations](https://github.com/chicas-spatstat-reading-group/events/blob/master/03-P-values/Material/utas_a_1154108_sm5368.pdf)
+  * [The ASA's p-value statement, one year on](https://github.com/chicas-spatstat-reading-group/events/blob/master/03-P-values/Material/Matthews_et_al-2017-Significance.pdf)
+  * [Statistical errors](https://github.com/chicas-spatstat-reading-group/events/blob/master/03-P-values/Material/506150a.pdf)
 * [Slides]()
