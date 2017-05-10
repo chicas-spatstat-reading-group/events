@@ -9,4 +9,4 @@ During this session [Claudio](http://chicas.lancaster-university.uk/people/front
   * [Statistical tests, P values, confidence intervals, and power: a guide to misinterpretations](https://github.com/chicas-spatstat-reading-group/events/blob/master/03-P-values/Material/utas_a_1154108_sm5368.pdf)
   * [The ASA P-value statement, one year on](https://github.com/chicas-spatstat-reading-group/events/blob/master/03-P-values/Material/Matthews_et_al-2017-Significance.pdf)
   * [Statistical errors](https://github.com/chicas-spatstat-reading-group/events/blob/master/03-P-values/Material/506150a.pdf)
-* [Slides]()
+* [Slides](https://github.com/chicas-spatstat-reading-group/events/blob/master/03-P-values/Material/p-values.pdf)
