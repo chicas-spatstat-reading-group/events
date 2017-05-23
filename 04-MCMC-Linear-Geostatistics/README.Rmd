@@ -4,3 +4,4 @@ During this session [Olatunji](http://chicas.lancaster-university.uk/people/john
 
 ## Material
 * [Slides](https://github.com/chicas-spatstat-reading-group/events/blob/master/04-MCMC-Linear-Geostatistics/Material/Olatunji_MCMC_Reading_Group.pdf)
+* [R Code](https://github.com/chicas-spatstat-reading-group/events/blob/master/04-MCMC-Linear-Geostatistics/Material/SpatSTATReadingGroup.R)
