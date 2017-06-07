@@ -1,0 +1,6 @@
+# Bayesian Inference for Epidemic Models
+
+During this session [Poppy](http://chicas.lancaster-university.uk/people/miller.html) will be giving an introduction to basic epidemiological models and how to perform Bayesian inference for them.
+
+## Material
+* [Slides](https://github.com/chicas-spatstat-reading-group/events/blob/master/04-MCMC-Linear-Geostatistics/Material/Olatunji_MCMC_Reading_Group.pdf)
