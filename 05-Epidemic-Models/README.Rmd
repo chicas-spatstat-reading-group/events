@@ -9,4 +9,5 @@ During this session [Poppy](http://chicas.lancaster-university.uk/people/miller.
   * [Bayesian Analysis for Emerging Infectious Diseases](https://github.com/chicas-spatstat-reading-group/events/blob/master/05-Epidemic-Models/Material/Bayesian_analysis_for_emerging_diseases_Jewell_Kypraios_Neal_Roberts_2009.pdf)
   * [A Contribution to the Mathematical Theory of Epidemics](https://github.com/chicas-spatstat-reading-group/events/blob/master/05-Epidemic-Models/Material/kermack1927.pdf)
   * [Kyprarios MSc Thesis](https://github.com/chicas-spatstat-reading-group/events/blob/master/05-Epidemic-Models/Material/kypraios.pdf)
-* [Slides](https://github.com/chicas-spatstat-reading-group/events/blob/master/04-MCMC-Linear-Geostatistics/Material/Olatunji_MCMC_Reading_Group.pdf)
+* [Slides](https://github.com/chicas-spatstat-reading-group/events/blob/master/05-Epidemic-Models/Material/epidemic_modelling_slides.pdf)
+* [R code](https://github.com/chicas-spatstat-reading-group/events/tree/master/05-Epidemic-Models/R%20Code)
