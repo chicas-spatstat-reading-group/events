@@ -1,0 +1,8 @@
+# Variational Bayesian methods for spatial data analysis
+
+During this session [Claudio](https://claudiofronterre.github.io/) and [Erick](https://erickchacon.github.io/) will be giving a review of the paper "Variational Bayesian methods for spatial data analysis".
+
+## Material
+* [Slides]()
+* Paper reviewed: [Variational Bayesian methods for spatial data analysis]()
+* Supplementary readings: [Variational Inference: A review for Statistiscians]()
