@@ -1,6 +1,6 @@
 # Maximum likelihood estimation for geostatistical models
 
-This will be a techincal utorial on the implementation of maximum likelihood estimation for geostatistical models. [Emanuele](http://www.lancaster.ac.uk/staff/giorgi/) will show how to implement in R the fitting of a linear geostatistical model using analytical expressions for the derivatives.
+This will be a technincal tutorial on the implementation of maximum likelihood estimation for geostatistical models. [Emanuele](http://www.lancaster.ac.uk/staff/giorgi/) will show how to implement in R the fitting of a linear geostatistical model using analytical expressions for the derivatives.
 
 ## Material
 
